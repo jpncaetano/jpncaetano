@@ -1,42 +1,86 @@
-# João Caetano
+<h1 align="center">🚧 BACKEND EM CONSTRUÇÃO 🚧</h1>
 
-👋 Olá! Sou João Pedro Caetano, estudante de Análise e Desenvolvimento de Sistemas pela FIAP e entusiasta de tecnologia. Atualmente, estou em transição de carreira, focado em desenvolver minhas habilidades como desenvolvedor backend com Java e expandindo meu conhecimento em diversas áreas relacionadas a essa tecnologia. Tenho uma grande paixão por aprender e aplicar novas técnicas que me ajudem a criar soluções eficientes e inovadoras.
+<p align="center">
+Olá, eu sou o <strong>João Caetano</strong>!  
+<br>
+👨‍💻 Desenvolvedor em formação, com foco em <strong>Engenharia de Software</strong> e <strong>Desenvolvimento Backend</strong>  
+📚 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
+🌱 Em constante evolução, apaixonado por construir <strong>soluções digitais eficientes</strong>  
+</p>
 
-## 🚀 Habilidades Técnicas
-- **Linguagens:** Java, Python, SQL
-- **Frameworks:** Spring Boot, Hibernate, Django
-- **Ferramentas:** Git, GitHub, Docker
-- **Outras Tecnologias:** Conhecimento em Linux, uso de ferramentas de versionamento de código como Git e GitHub, contato com as principais tecnologias de front-end como HTML, CSS e JavaScript com Bootstrap.
+---
 
+### 👨‍🔧 Sobre mim
 
-## 🎓 Educação
-- **Análise e Desenvolvimento de Sistemas** - [FIAP - Faculdade de Informática e Administração Paulista](https://www.fiap.com.br) (Conclusão prevista: 2025)
+Sou um profissional em transição de carreira, atualmente cursando o último ano de Análise e Desenvolvimento de Sistemas na FIAP. Tenho experiência anterior em gestão, planejamento e finanças, e trago essa bagagem estratégica para o universo da tecnologia.
 
-- Cursos complementares em Hardware e Redes, Linux, Algoritmos, Desenvolvimento Web, Fundamentos do Java. 
+Meu foco está em Engenharia de Software e Desenvolvimento Backend. Gosto de criar produtos digitais bem estruturados, com atenção à arquitetura, boas práticas e código limpo. Acredito na tecnologia como um vetor de impacto e transformação real.
 
-## 💼 Experiência Profissional
+---
 
-Embora esteja em transição para a área de desenvolvimento, minhas experiências anteriores me permitiram desenvolver um conjunto robusto de soft skills que considero essenciais para minha futura atuação em tecnologia. 
+### 🧩 Projetos em Destaque
 
-- **Liderança e Coordenação:** Como Coordenador de Faturamento, liderei equipes multidisciplinares, o que me ajudou a desenvolver habilidades de liderança, gestão de projetos e tomada de decisões estratégicas em situações de alta pressão.
-  
-- **Comunicação Efetiva:** Tive a oportunidade de aprimorar minhas habilidades de comunicação, tanto na interação com Diretores quanto na tradução de requisitos técnicos para equipes diversas, garantindo que todos estivessem alinhados e focados nos objetivos do projeto.
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [Gestão Pessoal](https://github.com/jpncaetano/fiap-gestao-pessoal) | Java, Spring Boot, MySQL, Swagger | API RESTful para cadastro de usuários, bens e alertas de contas |
+| [API REST Produtos](https://github.com/jpncaetano/api-rest-produtos) | Java, Spring Boot, PostgreSQL | API CRUD completa com integração e testes, seguindo boas práticas |
+| [Jobs For All](https://github.com/jpncaetano/fiap-jobs-for-all) | Kotlin, Jetpack Compose, Room | App ESG que conecta pessoas vulneráveis a oportunidades de trabalho |
+| [Fintech FIAP](https://github.com/jpncaetano/fiap-fintech) | Java, JSP, Oracle DB | Projeto acadêmico para controle financeiro com autenticação e relatórios |
 
-- **Resolução de Problemas e Pensamento Crítico:** Em ambas as funções, fui desafiado a resolver problemas complexos de maneira eficiente, analisando dados e identificando soluções criativas que pudessem ser implementadas com sucesso, sempre focando em resultados mensuráveis.
+> 👀 Veja todos os repositórios em [github.com/jpncaetano](https://github.com/jpncaetano)
 
-- **Trabalho em Equipe e Colaboração:** Trabalhei em ambientes colaborativos, onde a habilidade de trabalhar bem com outros times, compartilhar conhecimentos e apoiar os membros da equipe foi crucial para o sucesso dos projetos.
+---
 
-- **Gestão de Tempo e Prioridades:** Desenvolvi fortes habilidades de organização e priorização, gerenciando múltiplas tarefas e prazos, o que me permitiu entregar resultados consistentes, mesmo em ambientes dinâmicos.
+### 🛠️ Tecnologias & Ferramentas
 
-Essas experiências não só me prepararam para lidar com os desafios do desenvolvimento de software, como também me deram uma base sólida para colaborar eficazmente em equipes, garantindo que os projetos sejam entregues com alta qualidade e dentro dos prazos estipulados.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/jpncaetano/)
-- [Email](mailto:caetanojpn@gmail.com)
+---
 
-## 🌱 O que estou aprendendo atualmente
-- Estou me aprofundando na criação de APIs RESTful e microserviços utilizando Java e Spring Boot, explorando as melhores práticas para desenvolver aplicações escaláveis e eficientes.
+### 📈 GitHub Stats
 
-## 👨‍💻 Objetivos
-- Migrar com sucesso para a área de desenvolvimento, focando em backend e eventualmente explorando áreas como DevOps e arquitetura de sistemas.
-- Além disso, estou estudando conceitos de arquitetura de software, como design de sistemas baseados em microserviços, e me familiarizando com tecnologias como Docker e Kubernetes para orquestração de contêineres.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpncaetano&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpncaetano&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** – FIAP  
+  Conclusão prevista: 2025  
+- **Gestão Financeira** – Universidade Anhembi Morumbi  
+
+---
+
+### 📜 Certificações
+
+- Java com Spring Boot – DIO (2024)  
+- Python – FIAP (2024)  
+- JavaScript – Trybe (2024)  
+- Lógica de Programação – FIAP (2024)  
+- Fundamentos de Linux – FIAP (2024)
+
+---
+
+### 📬 Contato
+
+- 📧 Email: jpncaetano@yahoo.com.br  
+- 💼 LinkedIn: [linkedin.com/in/jpncaetano](https://www.linkedin.com/in/jpncaetano)  
+- 💻 GitHub: [github.com/jpncaetano](https://github.com/jpncaetano)
+
+---
+
+⭐ *Obrigado por visitar meu perfil! Vamos conversar sobre tecnologia, soluções digitais ou oportunidades?*
