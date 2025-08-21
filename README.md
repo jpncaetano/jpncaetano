@@ -22,7 +22,6 @@ Meu foco está em Engenharia de Software e Desenvolvimento Backend. Gosto de cri
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| [Gestão Pessoal](https://github.com/jpncaetano/fiap-gestao-pessoal) | Java, Spring Boot, MySQL, Swagger | API RESTful para cadastro de usuários, bens e alertas de contas |
 | [API REST Produtos](https://github.com/jpncaetano/api-rest-produtos) | Java, Spring Boot, PostgreSQL | API CRUD completa com integração e testes, seguindo boas práticas |
 | [Jobs For All](https://github.com/jpncaetano/fiap-jobs-for-all) | Kotlin, Jetpack Compose, Room | App ESG que conecta pessoas vulneráveis a oportunidades de trabalho |
 | [Fintech FIAP](https://github.com/jpncaetano/fiap-fintech) | Java, JSP, Oracle DB | Projeto acadêmico para controle financeiro com autenticação e relatórios |
